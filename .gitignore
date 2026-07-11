@@ -1,0 +1,6 @@
+# Basic images
+/images/basic*.jpg
+/cursors/basic*.png
+
+# Trash from csv
+/questions/*.csv#
